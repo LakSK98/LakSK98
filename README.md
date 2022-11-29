@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/lakshithask98" target="blank"><img src="https://img.shields.io/twitter/follow/lakshithask98?logo=twitter&style=for-the-badge" alt="lakshithask98" /></a> </p>
 
-<p width="100%" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laksk98&show_icons=true&theme=dark&locale=en" alt="laksk98" /></p>
+<p margin-left="30%" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laksk98&show_icons=true&theme=dark&locale=en" alt="laksk98" /></p>
 
-<p width="100%" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laksk98&theme=dark" alt="laksk98" /></p>
+<p margin-left="30%" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laksk98&theme=dark" alt="laksk98" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
