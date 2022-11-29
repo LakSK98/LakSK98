@@ -21,4 +21,4 @@
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laksk98&theme=dark" alt="laksk98" /></p>
 
-<p align="center" ><img align="left" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laksk98&show_icons=true&theme=dark&locale=en&layout=compact" alt="laksk98" /></p>
+<p align="center" ><img align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laksk98&show_icons=true&theme=dark&locale=en&layout=compact" alt="laksk98" /></p>
