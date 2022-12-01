@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshitha S Kumara</h1>
-<h3 align="center">A passionate undegraduate of University of Moratuwa.</h3>
+<h3 align="center">A passionate undegraduate at University of Moratuwa.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laksk98&label=Profile%20views&color=0e75b6&style=plastic" alt="laksk98" /> </p>
 
